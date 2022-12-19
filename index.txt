@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>MY RESUME</title>
+</head>
+
+<body>
+<h1>Welcome to my resume.</h1>
+<h2>By Sarthak sharma.</h2>
+
+</body>
+
+<h2>Introduction</h2>
+<body>
+<br>
+    <h3>Good morning,</h3>
+    <p>	I am Sarthak sharma. I belong to Chamba, Himachal Pradesh also
+    known as “Dev Bhoomi”. I’m currently living in Chandigarh and
+    pursuing a B.Tech degree in Computer science at Dr. B R Ambedkar
+    National institute of Technology, Jalandhar.<br>
+    I did most of my study at Kendriya vidyalaya no. 1 Bathinda cantt and
+    scored 92% in my boards.<br>
+    I live in a nuclear family with my parents and an elder sister. My father
+    is armed personnel because of whom I got many opportunities to live
+    and visit different cities like Leh, Dehradun and Bathinda. Beside that
+    my mother, she is a homemaker and my sister is pursuing her
+    graduation.<br>
+    Talking about my hobbies I love watching movies specifically sci-fi
+    ones. In addition, I do internet surfing a lot and would love to play
+    badminton in outdoors and prefer playing chess in indoors.<br>
+    My strength is that I’m very disciplined and dedicated to whatever
+    work I do. And I always believe in myself and my honesty for work.
+    And as far as my weaknesses are concerned, I think I have only one
+    that is I can focus on only one thing at a time.<br>
+    My goal is to achieve excellence in my skills. And my long-term goal
+    is to be a renowned engineer and reach the highest level of success
+    being kind and compassionate.<br>
+    That’s all about me. Thank you for providing me such a great
+    opportunity to introduce myself.<br>
+    
+    </p>
+    
+    
+    <table>
+    <tbody><tr> 
+    <th>Strenghts</th>	 <th>weakness</th>
+    </tr>
+    <tr>
+    <td>Good communication</td> 	<td>Trust people easily</td>
+    </tr>
+    <tr><td>Hard working</td>	<td>Shy person</td>
+    </tr></tbody></table>
+    
+    
+    <table> 
+    <tbody><tr>
+    <th>Strenghts</th> <td> Good communicator </td> <td> Hardworking</td>
+    </tr>
+    <tr>
+    <th> Weaknesses </th> <td> Trust people easily</td> <td>Shy person</td>
+    </tr>
+    </tbody></table>
+    
+    <form>
+    <label for="Firstname">Visitor's First name: </label>
+    <input type="text" id="Firstname" name="Visitorfname">
+    
+    <label for="Lastname">Visitor's Last name: </label>
+    <input type="text" id="Lastname" name="Visitorlname"><br>
+    
+    <label for="address"> Address:</label>
+    <input rows="2" cols="30" type="text" id="address" name="VisitorAddress">
+    </form>
+    
+    
+    </body>
+
+</html>
